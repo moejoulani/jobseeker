@@ -17,7 +17,7 @@ class UsersTableSeeder extends Seeder
             'id' => '1',
             'name' => 'admin',
             'email' => 'admin@gmail.com',
-            'password' => '12345678',
+            'password' => '$2y$10$dPtEOKMvLI0Gzns93neWretHuxa0tXSw/mXKMy5o5SyhKIbWyafpe',
             'user_type' => '0',
         ]);
     }
