@@ -17,7 +17,7 @@ class CreatePostsTable extends Migration
             $table->id();
             $table->string("title");
             $table->longText("description");
-            $table->integer("work_type");
+            $table->string("work_type");
             $table->string("location");
             $table->string("company_name");
             $table->date("expiry_date");
