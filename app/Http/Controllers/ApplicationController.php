@@ -63,7 +63,7 @@ class ApplicationController extends Controller
             'body' => 'The Admin Views Your Application'
         ];
        
-        \Mail::to($application->user->email)->send(new \App\Mail\SendEmail($details));
+     //   \Mail::to($application->user->email)->send(new \App\Mail\SendEmail($details));
         return view("dashboard.applications.show")->with($data);
         
     }
