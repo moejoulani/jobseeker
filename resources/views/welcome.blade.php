@@ -470,7 +470,7 @@
 
 
             <div class="flex justify-center ">
-                <h4 style="font-size: 20px;">This Project Is A Task For zenHR </h4>
+                <h4 style="font-size: 20px;">This Project Is A Task For ZenHR </h4>
 
                 <div class="text-center text-sm text-gray-500 sm:text-left">
 
